@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840521</millis>
+  <sequence>0</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Añadiendo ficheros con filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840524</millis>
+  <sequence>1</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840525</millis>
+  <sequence>2</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840526</millis>
+  <sequence>3</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840527</millis>
+  <sequence>4</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840528</millis>
+  <sequence>5</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840529</millis>
+  <sequence>6</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840530</millis>
+  <sequence>7</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840531</millis>
+  <sequence>8</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840532</millis>
+  <sequence>9</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840533</millis>
+  <sequence>10</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840533</millis>
+  <sequence>11</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840534</millis>
+  <sequence>12</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840535</millis>
+  <sequence>13</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840535</millis>
+  <sequence>14</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840536</millis>
+  <sequence>15</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+<record>
+  <date>2018-10-09T08:17:20</date>
+  <millis>1539065840537</millis>
+  <sequence>16</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>SEVERE</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>16</thread>
+  <message>Fichero no corresponde al filtro Añadir ficheros</message>
+</record>
+</log>
